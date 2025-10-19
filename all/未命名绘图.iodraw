@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KAVJmYLL1Ia7okxt-l7H-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KAVJmYLL1Ia7okxt-l7H-1" value="次中尺度流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KAVJmYLL1Ia7okxt-l7H-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KAVJmYLL1Ia7okxt-l7H-2" value="中尺度渦" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KAVJmYLL1Ia7okxt-l7H-3" value="颱風" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
